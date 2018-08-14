@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SeoulContest</string>
+    <string name="title_activity_new__seoul">New_Seoul</string>
+    <string name="tab_text_1">관광지</string>
+    <string name="tab_text_2">맛집</string>
+    <string name="tab_text_3">행사정보</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
